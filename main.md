@@ -119,3 +119,10 @@ PS. 由于有些网站的名称不确定，暂时使用页面标题或者页面�
 *   [A novel of memory](https://gitcafe.com/Superwyh/OutOfMemory)
 *   [Dark Patterns](http://darkpatterns.org/)
 *   [JSFuck](http://www.jsfuck.com/)
+
+最后...
+-----
+
+本文以 CC0 发布，可以任意转载。不过希望转载的时候可以保留原始地址：
+
+> <https://github.com/JSBa/links/blob/master/main.md>
