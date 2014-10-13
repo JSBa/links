@@ -27,6 +27,7 @@ PS. 由于有些网站的名称不确定，暂时使用页面标题或者页面�
 *   [W3school](http://www.w3school.com.cn/) (上一个链接 [W3Schools] 的中文翻译版)  
     // 跟 MDN 一样，也不推荐这个中文版，原因也是这个内容太久没更新了，很多已经过时了。
 *   [HTML5 Rocks](http://www.html5rocks.com/) (一个 HTML5 教程的网站)
+*   [Learn CSS Layout](http://zh.learnlayout.com/) (一个用来学习 CSS 布局的教程，中文)
 *   [W3CPlus](http://www.w3cplus.com/) (国内的一个 CSS3 博客)
 *   [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm) (不解释)
 *   [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/) (不解释++)
