@@ -41,6 +41,8 @@ PS. 由于有些网站的名称不确定，暂时使用页面标题或者页面�
 *   [张鑫旭](http://www.zhangxinxu.com/wordpress/)
 *   [玉伯](https://github.com/lifesinger/lifesinger.github.com/issues?labels=blog)
 *   [AlloyTeam](http://www.alloyteam.com/) (腾讯)
+*   [淘宝 UED](http://ued.taobao.org/blog/)
+*   [腾讯 ISUX](http://isux.tencent.com/)
 
 兼容性
 -----
