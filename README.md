@@ -82,7 +82,7 @@ PS. 由于有些网站的名称不确定，暂时使用页面标题或者页面�
 -----
 *   [Ideone](http://ideone.com/)
 *   ~~[Pastebin](http://pastebin.com/)~~
-*   ~~[Ubuntu Pastebin](http://paste.ubuntu.com/)~~
+*   [Ubuntu Pastebin](http://paste.ubuntu.com/)
 *   [Mozilla Pastebin](http://pastebin.mozilla.org/)
 *   [GitHub Gists](https://gist.github.com/)
 *   [Paste.ee](http://paste.ee/)
