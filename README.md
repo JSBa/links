@@ -49,6 +49,7 @@ PS. 由于有些网站的名称不确定，暂时使用页面标题或者页面�
 
 *   [QuirksMode](http://quirksmode.org/) (DOM API 兼容性列表)
 *   [Can I use](http://caniuse.com/) (HTML5 / CSS3 兼容性表)
+*   [Internet Explorer Web Platform Status and Roadmap](https://status.modern.ie/) (IE 自家的各种新特性的支持列表)
 *   [HTML5 Please](http://html5please.com/) (HTML5 / CSS3 目前总体兼容情况及相关 Polyfill 推荐)
 *   [HTML5 Polyfills](http://html5polyfill.com/) (HTML5 / CSS3 相关 Polyfill 列表)
 *   [Modernizr - HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills) (JS / HTML5 / CSS3 相关 Polyfill 列表)
