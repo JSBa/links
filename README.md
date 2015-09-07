@@ -54,7 +54,7 @@ PS. 由于有些网站的名称不确定，暂时使用页面标题或者页面�
 *   [HTML5 Polyfills](http://html5polyfill.com/) (HTML5 / CSS3 相关 Polyfill 列表)
 *   [Modernizr - HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills) (JS / HTML5 / CSS3 相关 Polyfill 列表)
 *   [MDN](https://developer.mozilla.org/) (具体条目下面会有兼容性列表)
-*   [ECMAScript 5/6 compatibility table](http://kangax.github.io/compat-table/) (ES5 / ES6 / ES7 兼容性列表)
+*   [ECMAScript compatibility table](http://kangax.github.io/compat-table/) (ES5 / ES6 / ES7 兼容性列表)
 *   [W3Help](http://www.w3help.org/zh-cn/home/compatibility.html) (HTML 布局兼容性问题)
 
 在线工具
